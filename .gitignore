@@ -1,0 +1,5 @@
+*.csv
+.DS_Store
+.vscode
+*/config.py
+download_spoiler_pics/output
